@@ -9,3 +9,4 @@ $pkg install git
 $git clone https://github.com/Ronezky01/Rizkyna
 $cd Rizkyna
 $python2 rizkyna.py
+SELAMAT MENGGUNAKAN TOOL
